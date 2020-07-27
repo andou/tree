@@ -13,7 +13,7 @@ $ git clone git@github.com:andou/tree.git
 ### Install dependencies with composer and generate the autoload file
 
 ```shell
-$ cr tree
+$ cd tree
 $ composer install
 ```
 
