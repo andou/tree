@@ -1,0 +1,26 @@
+{
+  "name": "andou/tree",
+  "description": "",
+  "license": "Mit License",
+  "authors": [
+    {
+      "name": "Antonio Pastorino",
+      "email": "antonio.pastorino@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/andou/tree/issues"
+  },
+  "require": {
+    "php": ">=5.6.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
